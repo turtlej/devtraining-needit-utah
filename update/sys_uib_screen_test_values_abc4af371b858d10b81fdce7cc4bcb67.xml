@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent/>
         <macroponent_config>{
   "table" : "x_58872_needit_needit",
   "sysId" : "5e38e3951b58c110b81fdce7cc4bcbb5"

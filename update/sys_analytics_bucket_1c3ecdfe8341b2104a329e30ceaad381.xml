@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="NextExperience">c8ae7e45732130107d804c9885f6a7a5</analytics_channel>
+        <application_name>NeedIt Experience</application_name>
+        <bucket_document_id>c01d66941b0d0510b81fdce7cc4bcb56</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_metadata_customer_override/>
+        <bucket_table_name>sys_ux_page_registry</bucket_table_name>
+        <bucket_type/>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_58872_needit.sys_ux_page_registry.c01d66941b0d0510b81fdce7cc4bcb56</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-10 04:48:51</sys_created_on>
+        <sys_id>1c3ecdfe8341b2104a329e30ceaad381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_analytics_bucket_1c3ecdfe8341b2104a329e30ceaad381</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-10 04:48:51</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>

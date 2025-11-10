@@ -9,6 +9,7 @@
         <collection>x_58872_needit_needit_task</collection>
         <condition/>
         <content_type>text/html</content_type>
+        <default_digest>false</default_digest>
         <default_interval/>
         <description/>
         <digest_from/>
@@ -19,7 +20,9 @@
         <digest_subject/>
         <digest_template/>
         <digest_text/>
+        <digest_type/>
         <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
         <event_name>x_58872_needit.overdueNeedItTask</event_name>
         <event_parm_1>false</event_parm_1>
         <event_parm_2>false</event_parm_2>
